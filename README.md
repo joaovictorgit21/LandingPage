@@ -45,6 +45,8 @@
 
 ## * 🖼 Imagens e gifs da página
 
+<img src="./img/page.gif">
+
 ## * 🖥 Tecnologias Utilizadas
 
 | Tipo | Tecnologia |
@@ -54,7 +56,6 @@
 | 💻 Script | Javscript |
 | 🎮 controle de versão | GitHub |
 | 👨‍💻 Versionamento de código | Git |
-| 🖼 Desing | Figma |
 
 ## * Fontes consultadas
 
