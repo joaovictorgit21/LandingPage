@@ -213,7 +213,7 @@ header .container {
 }
 
 .person {
-    width: 70%;
+    width: 90%;
     transform: translate(15%, 25px);
 }
 
@@ -250,7 +250,7 @@ header .container {
 .big-wrapper.dark .toggle-btn i:first-child {
     display: none;
 }
-/*
+
 .shape {
     position: absolute;
     z-index: 0;
@@ -259,7 +259,7 @@ header .container {
     left: -15px;
     opacity: 1;
 }
-*/
+
 .copy {
     position: absolute;
     top: 0;
